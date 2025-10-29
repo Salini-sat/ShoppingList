@@ -51,7 +51,5 @@ A simple yet powerful **Android Shopping List App** built with **Kotlin** and **
 ### 3. Enjoy!
 Open the app, start adding items, and manage your shopping list seamlessly! 🛍️
 
----
 
-## 🧩 Folder Structure
 
